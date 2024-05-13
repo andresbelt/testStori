@@ -2,6 +2,9 @@
 
 Example android with MVI compose and Firebase firestore auth
 
+user test 
+test@stori.com
+123456
 
 ## Installation
 Clone this repository and import into **Android Studio**
