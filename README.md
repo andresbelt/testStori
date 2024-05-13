@@ -1,15 +1,21 @@
-# CornerExample
-interviewtest android with MVVM, clean architecture and repository pattern
+# testStori
 
-# Architecture
-
-![MVVM3]
+Example android with MVI compose and Firebase firestore auth
 
 
 ## Installation
 Clone this repository and import into **Android Studio**
 
 ```bash
+git clone https://github.com/andresbelt/testStori.git
+```
+
+## Test
+
+
+## Maintainers
+
+* **Andres Beltran** - [testStori](https://github.com/andresbelt/testStori).
 git clone 
 ```
 
@@ -29,4 +35,3 @@ This project is licensed under the MIT License
 4. Run the linter (ruby lint.rb').
 5. Push your branch (git push origin my-new-feature)
 6. Create a new Pull Request
-
