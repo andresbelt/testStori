@@ -1,0 +1,8 @@
+<paths>
+    <external-path
+        name="book_images"
+        path="Android/data/com.stori.interviewtest/files/Pictures" />
+    <files-path
+        name="book_images_internal"
+        path="/" />
+</paths>
