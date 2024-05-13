@@ -15,7 +15,7 @@ git clone https://github.com/andresbelt/testStori.git
 
 ## Maintainers
 
-* **Andres Beltran** - [ExampleZemoga](https://github.com/andresbelt/testStori).
+* **Andres Beltran** - [testStori](https://github.com/andresbelt/testStori).
 
 ## License
 
